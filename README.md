@@ -5,3 +5,10 @@ cmake CMakeLists.txt
 make
 ./runTests
 ```
+
+now working on the jenkins build
+
+or to get the test results in xml 
+```
+./runTests --gtest_output="xml:testresults.xml"
+```

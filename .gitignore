@@ -11,6 +11,9 @@ cmake_install.cmake
 #executables
 runTests
 
+#reports
+testresults.xml
+
 #sublime related files
 terminal.glue
 *.sublime-workspace
