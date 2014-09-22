@@ -1,0 +1,16 @@
+#CMake related files
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+
+#Ctags related files
+.tags
+.tags_sorted_by_file
+
+#executables
+runTests
+
+#sublime related files
+terminal.glue
+*.sublime-workspace
