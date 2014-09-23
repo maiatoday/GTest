@@ -1,18 +1,13 @@
-#CMake related files
-CMakeCache.txt
-CMakeFiles
-Makefile
-cmake_install.cmake
+#generated files and artifacts
+build/
+
+#gradle files
+.gradle/
 
 #Ctags related files
 .tags
 .tags_sorted_by_file
 
-#executables
-runTests
-
-#reports
-testresults.xml
 
 #sublime related files
 terminal.glue
