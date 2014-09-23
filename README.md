@@ -12,3 +12,8 @@ or to get the test results in xml
 ```
 ./runTests --gtest_output="xml:testresults.xml"
 ```
+
+simple command line build also possible 
+```bash
+g++  -I/usr/include/gtest tests.cpp -lgtest -lpthread -o runTests
+```
